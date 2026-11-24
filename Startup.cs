@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using SportsStore.Data;
 using SportsStore.Models;
+using System.Globalization;
 
 namespace SportsStore
 {
